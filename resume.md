@@ -72,6 +72,9 @@
 
 * **[rOpenSci Project](https://ropensci.org/)**
 	rOpensci is community based project that builds open source software tools for the scientific community. I develop and maintain numerous open source software packages for scientific data and computing. I have also been a code reviewer for software submitted to the project, and contributed blog posts, curriculum for workshop,s and helped write grants and academic articles.
+
+* **[DataCamp](https://datacamp.com/)**
+	Datacamp teaches people data science online in small interactive online lessons. I contribute and maintain curriculum for a lesson called "Case studies in network theory", teaching students the application of basic network theory through a series of video and online exercises.
 ------
 
 ### Education
