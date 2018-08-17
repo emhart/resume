@@ -1,0 +1,1 @@
+This my resume in markdown format based https://github.com/c0bra/markdown-resume-js. I based the formatting on David Hamp-Gonsalves blog post: http://www.davidhampgonsalves.com/painless-resumes-with-markdown/
