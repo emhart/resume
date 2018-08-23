@@ -83,15 +83,15 @@
 
 ### Publications
 
-Hart, E. M., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., ... & Hollister, J. W. (2016). Ten simple rules for digital data 	storage. *PLoS computational biology*, 12(10), e1005097.
+Hart, E. M., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., et al. & Hollister, J. W. (2016). Ten simple rules for digital data 	storage. *PLoS computational biology*, 12(10), e1005097.
 
 Borregaard, M. K., & Hart, E. M. (2016). Towards a more reproducible ecology. *Ecography*, 39(4), 349-353.
 
-Boettiger, C., Chamberlain, S., Hart, E. M.**, & Ram, K. (2015). Building software, building community: lessons from the rOpenSci project. *Journal of Open Research Software*, 3(1).
+Boettiger, C., Chamberlain, S., Hart, E. M., & Ram, K. (2015). Building software, building community: lessons from the rOpenSci project. *Journal of Open Research Software*, 3(1).
 
-Hampton, S. E., Anderson, S. S., Bagby, S. C., Gries, C., Han, X., Hart, E. M., ... & Mudge, J. (2015). The Tao of open science for ecology. *Ecosphere*, 6(7), 1-13.
+Hampton, S. E., Anderson, S. S., Bagby, S. C., Gries, C., Han, X., Hart, E. M., et al. & Mudge, J. (2015). The Tao of open science for ecology. *Ecosphere*, 6(7), 1-13.
 
-Crutsinger, G. M., Rudman, S. M., Rodriguez‐Cabal, M. A., McKown, A. D., Sato, T., MacDonald, A. M., ... & El‐Sabaawi, R. W. (2014). Testing a ‘genes‐to‐ecosystems’ approach to understanding aquatic–terrestrial linkages. *Molecular ecology*, 23(23), 5888-5903.
+Crutsinger, G. M., Rudman, S. M., Rodriguez‐Cabal, M. A., McKown, A. D., Sato, T., MacDonald, A. M., et al. & El‐Sabaawi, R. W. (2014). Testing a ‘genes‐to‐ecosystems’ approach to understanding aquatic–terrestrial linkages. *Molecular ecology*, 23(23), 5888-5903.
 
 Hart, E. M., & Avilés, L. (2014). Reconstructing local population dynamics in noisy metapopulations—the role of random catastrophes and Allee effects. *PloS one*, 9(10), e110049.
 
