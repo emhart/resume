@@ -81,6 +81,18 @@
 
 ------
 
+### Education
+
+**Postdoctor Research Fellow** __2011 to 2013__
+	University of British Columbia, Beaty Biodiversity Research Center, Vancouver, British Columbia
+
+**Doctor of Philosophy** __2005 to 2011__
+	University of Vermont, Department of Biology, Burlington, VT
+
+**Bachelors of Science** __1997 to 2001__
+	University of Massachusetts, Department of Biology, Amherst, MA 
+
+------
 ### Publications
 
 Hart, E. M., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., et al. & Hollister, J. W. (2016). Ten simple rules for digital data 	storage. *PLoS computational biology*, 12(10), e1005097.
