@@ -32,7 +32,7 @@
 1. Time series forecasting
 2. Bayesian hierarchical models
 3. Shrinkage and regularization
-4. Resampling and cross-validahtion
+4. Resampling and cross-validation
 5. Tree based methods 
 6. Cluster analysis
 7. Neural Networks
@@ -56,7 +56,6 @@
 **National Ecological Observatory**   *Staff Scientist*   **2013 to 2014**
 	Implemented a data and metadata standards across a 1,000 data products for an NSF funded ecological obseveratory.
 	Created programmatic tools for interacting with data in a variety of data platforms (Neo4J, CouchDB, SQL) for other scientists.
-	Developed and tested algorithms to quantify uncertainty in raw sensor network data and scale up to synthetic data products.
 
 **University of British Columbia Beaty Biodiversity Center**   *Post-Doctoral Fellow*   **2011 to 2013**
 	Developed individual based models of the evolution of sociality in spiders using evolutionary algorithms in Python.

@@ -32,7 +32,7 @@
 1. Time series forecasting
 2. Mixed-effects models
 3. Shrinkage and model selection 
-4. Resampling and cross-validahtion
+4. Resampling and cross-validation
 5. Tree based methods 
 6. Cluster analysis
 7. Neural Networks
@@ -43,21 +43,18 @@
 ### Experience
 
 **Apple**   *Senior Data Scientist*   **2014 - Present**
-	Deploy machine learning models at scale in a production environment to provide meaningful business prediction.
+	Deploy machine learning models at scale in a production environment to provide meaningful business prediction
 	Build forecasting models for various lines of business to help with new initiatives
 	Collaborate with cross-functional teams to ensure proper instrumentation of products and build data pipelines.
 	Deliver insightful presentations of analysis and business results to business unit leaders
 
 **National Ecological Observatory**   *Staff Scientist*   **2013 to 2014**
 	Implemented a data and metadata standards across a 1,000 data products for an NSF funded ecological obseveratory.
-	Created programmatic tools for interacting with data in a variety of data platforms (Neo4J, CouchDB, SQL) for other scientists.
-	Developed and tested algorithms to quantify uncertainty in raw sensor network data and scale up to synthetic data products.
-
+	Created programmatic tools for working with data in a variety platforms (Neo4J, CouchDB, SQL) for other scientists.
 
 **University of British Columbia Beaty Biodiversity Center**   *Post-Doctoral Fellow*   **2011 to 2013**
 	Developed individual based models of the evolution of sociality in spiders using evolutionary algorithms in Python.
 	Built large scale simulations of spider populations to calculate error and bias properties of statistical models of population growth.
-
 
 **University of Vermont Complex Systems Group**   *Graduate Research Fellow*   **2005 to 2011**
 	Built statistical models of toxic algal bloom population dynamics based on historical monitoring data.
