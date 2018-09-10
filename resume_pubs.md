@@ -82,7 +82,7 @@
 
 ### Education
 
-**Postdoctor Research Fellow** __2011 to 2013__
+**Postdoctoral Research Fellow** __2011 to 2013__
 	University of British Columbia, Beaty Biodiversity Research Center, Vancouver, British Columbia
 
 **Doctor of Philosophy** __2005 to 2011__
